@@ -1,0 +1,35 @@
+======================================
+ SERVER PERFORMANCE STATS 
+======================================
+1. CPU Usage:
+ Usage: 12.5%
+2. Memory Usage:
+ Used: 2789 MB | Free: 10234 MB | Usage: 21.4%
+3. Disk Usage (Total):
+ Used: 98G | Free: 352G | Usage: 22%
+4. Top 5 Processes by CPU:
+ 1223 chrome 24.3
+ 1456 gnome-shell 7.8
+ 1678 code 5.4
+ 1801 firefox 3.2
+ 2003 bash 1.1
+5. Top 5 Processes by Memory:
+ 1223 chrome 12.6
+ 1678 code 9.4
+ 1801 firefox 8.3
+ 1456 gnome-shell 6.9
+ 2200 mysql 4.2
+===== Extra Info =====
+OS Version:
+Ubuntu 22.04.4 LTS
+Uptime:
+up 3 hours, 25 minutes
+Load Average:
+0.45, 0.62, 0.71
+Logged-in Users:
+1
+Failed Login Attempts:
+ Log file not found
+======================================
+ END OF REPORT
+======================================
